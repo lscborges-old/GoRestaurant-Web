@@ -7,7 +7,7 @@
 
 ## Preview
 
-
+ <img src=".github/gorestaurant_img.png" />
 
 ## Technologies Used
 
