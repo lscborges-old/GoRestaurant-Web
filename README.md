@@ -5,14 +5,26 @@
 
 > A restaurant management application to check dishes availability. This application was developed as a challenge of the Rocketseat Gostack BootCamp.
 
-## Install
+## Preview
 
-```sh
-yarn install
-```
+
+
+## Technologies Used
+
+* React ⚛️
+* Styled-Components 💅🏻
+* Jest 🃏
+* Typescript :blue_book:
 
 ## Usage
 
+```sh
+yarn 
+```
+
+```sh
+yarn json-server server.json -p 3333
+```
 ```sh
 yarn run start
 ```
