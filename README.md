@@ -1,4 +1,4 @@
-<h1 align="center">Welcome to GoRestaurant-Web 🚀</h1>
+<h1 align="center">Welcome to GoRestaurant-Web :ramen:</h1>
 <p>
   <img alt="Version" src="https://img.shields.io/badge/version-0.1.0-blue.svg?cacheSeconds=2592000" />
 </p>
@@ -8,6 +8,10 @@
 ## Preview
 
  <img src=".github/gorestaurant_img.png" />
+ 
+## Others repositories of this project :books:
+* <a href="https://github.com/lscborges1/GoBarber-Mobile">Mobile Front-end</a>
+
 
 ## Technologies Used
 
